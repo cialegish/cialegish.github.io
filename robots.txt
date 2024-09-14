@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cialegish.github.io/sitemap.html.gz
+Sitemap: https://cialegish.github.io/app/sitemap.html.gz
+Sitemap: https://cialegish.github.io/assets/sitemap.html.gz
+Sitemap: https://cialegish.github.io/css/sitemap.html.gz
+Sitemap: https://cialegish.github.io/includes/sitemap.html.gz
+Sitemap: https://cialegish.github.io/item/sitemap.html.gz
+Sitemap: https://cialegish.github.io/src/sitemap.html.gz
